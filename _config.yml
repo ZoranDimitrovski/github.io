@@ -23,7 +23,7 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
 search: true
-teaser: "/assets/images/luca-bravo-zAjdgNXsMeg-unsplash.jpg"
+teaser: /assets/images/luca-bravo-zAjdgNXsMeg-unsplash.jpg
 
 # Build settings
 markdown: kramdown
