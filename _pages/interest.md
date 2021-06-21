@@ -1,5 +1,5 @@
 ---
-permalink: /interest/
+permalink: /interests/
 title: "My Interests"
 ---
 
